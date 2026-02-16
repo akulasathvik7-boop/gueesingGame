@@ -1,4 +1,6 @@
 # gueesingGame
+//using random prefined class importing from util .class
+
 import java.util.Random;
 import java.util.Scanner;
 
